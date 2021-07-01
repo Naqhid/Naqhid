@@ -16,6 +16,6 @@ Welcome to my gitHub page. I am currently studying software Development at Micro
 
 - 🔭 I’m currently working on ...
 
-Finishing the microverse curriculum successful.
-Improving my technical and professonal skills
+- Finishing the microverse curriculum successful.
+- Improving my technical and professonal skills
 
