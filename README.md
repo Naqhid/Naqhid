@@ -3,6 +3,8 @@
 
 **Im Mohammed Naqhid C** 
 
+Welcome to my gitHub page. I am currently studying software Development at Microverse
+
  🌱 I’m currently learning ...
 - HTML & CSS
 - Ruby
