@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Im Mohammed Naqhid C** 
+###**Im Mohammed Naqhid C** 
 
 Welcome to my gitHub page. I am currently studying software Development at Microverse
 
