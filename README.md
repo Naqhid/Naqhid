@@ -3,13 +3,13 @@
 
 ### Im Mohammed Naqhid C 
 
-Welcome to my gitHub page. I am currently studying software Development at Microverse
+Welcome to my gitHub page. I am currently studying software development at Microverse
 
  **🌱 I’m currently learning ...**
 - HTML & CSS
 - Ruby
 - Ruby on Rails
-- Javascript
+- JAVASCRIPT
 - React
 - MySql
 
