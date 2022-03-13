@@ -3,7 +3,7 @@
 
 ### Im Mohammed Naqhid C 
 
-Welcome to my gitHub page. I am currently working as a Full-stack developer at Wabco.
+Welcome to my gitHub page. I am currently working as a UI developer at Wabco.
  
 **🌱 I’m currently learning ...**
 - HTML & CSS
@@ -16,6 +16,6 @@ Welcome to my gitHub page. I am currently working as a Full-stack developer at W
 
  **🔭 I’m currently working on ...**
 
-- Angular 8 Projects.
+- Angular Projects.
 - Improving my technical and professonal skills
 
